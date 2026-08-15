@@ -1,4 +1,6 @@
 # apnacollege-
 This is my first repository on github.
-Author -Hasaan
-its github
+<br>
+Author -Hasaan.
+<br>
+Its github.
